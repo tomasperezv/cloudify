@@ -1,0 +1,2 @@
+# cloudify
+SSH connection manager
