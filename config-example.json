@@ -1,0 +1,15 @@
+{
+  "username": "test",
+  "hosts":
+  [
+    {
+      "id": "web"
+      "name": "web-main",
+      "domain": "0x101.com"
+    }
+  ],
+  "jumphost": {
+      "name": "jump1",
+      "domain": "0x101.com"
+  }
+}

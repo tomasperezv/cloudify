@@ -1,0 +1,23 @@
+{
+  "name": "cloudify",
+  "version": "1.0.0",
+  "description": "SSH connection manager",
+  "main": "./bin/cloudify",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasperezv/cloudify.git"
+  },
+  "keywords": [
+    "ssh",
+    "tmux"
+  ],
+  "author": "Tomás Pérez <tom@0x101.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomasperezv/cloudify/issues"
+  },
+  "homepage": "https://github.com/tomasperezv/cloudify#readme"
+}
