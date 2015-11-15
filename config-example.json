@@ -3,7 +3,7 @@
   "hosts":
   [
     {
-      "id": "web"
+      "id": "web",
       "name": "web-main",
       "domain": "0x101.com"
     }
