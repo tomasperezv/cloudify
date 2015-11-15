@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 var Cloudify = require('../lib/cloudify');
-Cloudify.processCommand(process.argv);
+
+var client = new Cloudify();
+client.processCommand(process.argv);
