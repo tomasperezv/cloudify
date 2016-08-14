@@ -1,5 +1,5 @@
 {
-  "name": "cloudify",
+  "name": "@tomasperezv/cloudify",
   "version": "1.0.0",
   "description": "SSH connection manager",
   "main": "./bin/cloudify",
@@ -14,7 +14,7 @@
     "ssh",
     "tmux"
   ],
-  "author": "Tomás Pérez <tom@0x101.com>",
+  "author": "Tomás Pérez <t@0x101.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tomasperezv/cloudify/issues"
